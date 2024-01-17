@@ -1,4 +1,4 @@
-package com.zlx.DesignPattern;
+package com.zlx.DesignPattern.Singleton;
 
 /**
  * @author zlx
