@@ -1,7 +1,7 @@
 package com.zlx.DesignPattern.Proxy;
 
 /**
- * 代理模式，通过一个类来代理另一个类，来给类增加功能
+ * 代理模式，通过一个类来代理另一个类，主要是控制访问，而非增加功能
  * @author zlx
  */
 public class UserProxy implements Animals {
